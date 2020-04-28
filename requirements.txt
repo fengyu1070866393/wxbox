@@ -1,0 +1,7 @@
+django==1.11.15
+Crypto==1.4.1
+pycryptodomex==3.9.7
+pytz==2019.3
+requests==2.6.0
+six==1.10.0
+wxpy==0.3.9.8
